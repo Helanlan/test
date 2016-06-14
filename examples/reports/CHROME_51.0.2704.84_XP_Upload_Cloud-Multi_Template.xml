@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="Upload_Cloud-Multi_Template"
+    errors="0" failures="0" hostname="" id="" package="Upload_Cloud-Multi_Template" skipped="0"
+    tests="2" time="34.31" timestamp="Tue, 14 Jun 2016 06:41:08 GMT">
+  
+    <testcase name="云端上传" time="27.55" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="多图模板" time="6.757" assertions="0">
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

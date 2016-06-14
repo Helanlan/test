@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="7">
+
+  <testsuite name="regist"
+    errors="0" failures="1" hostname="" id="" package="regist" skipped="6"
+    tests="7" time="7.885" timestamp="Tue, 14 Jun 2016 06:53:32 GMT">
+  
+    <testcase name="正常注册" time="7.885" assertions="4">
+
+    
+
+    
+
+      <failure message="Testing if element &lt;#regi_msg&gt; contains text: &quot;正在注册&quot;.">    at Object.module.exports.正常注册 (D:\workspace\test\regist.js:21:22)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)</failure>
+
+    
+    </testcase>
+  
+  
+    
+    <testcase
+      name="注册已经存在的用户">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="没有用户名">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="没有密码">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="只输入一次密码">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="没有验证码">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="验证码错误">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="style_switch"
+    errors="0" failures="0" hostname="" id="" package="style_switch" skipped="0"
+    tests="3" time="98.81" timestamp="Tue, 14 Jun 2016 06:36:22 GMT">
+  
+    <testcase name="板式切换_板式1" time="53.70" assertions="15">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="板式切换_板式2" time="28.35" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="板式切换_板式3" time="16.76" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="blow_bar"
+    errors="0" failures="1" hostname="" id="" package="blow_bar" skipped="0"
+    tests="2" time="45.19" timestamp="Tue, 14 Jun 2016 06:42:32 GMT">
+  
+    <testcase name="底边栏产品设置" time="40.61" assertions="29">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="时区设置" time="4.579" assertions="1">  <failure message="Testing if attribute class of &lt;#server_time&gt; contains &quot;fr p5 pt8 cp mr10 c_25 c_66&quot;.">    at Object.module.exports.时区设置 (D:\workspace\test\blow_bar.js:90:22)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
